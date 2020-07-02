@@ -1,7 +1,6 @@
 @echo off
 title LaTeX Cleaner
 del /a /f /q /s  "*.aux"
-del /a /f /q /s  "*.aux"
 del /a /f /q /s  "*.bak"
 del /a /f /q /s  "*.bbl"
 del /a /f /q /s  "*.bcf"
